@@ -1,0 +1,20 @@
+# dependências
+node_modules/
+
+# build
+dist/
+
+# variáveis de ambiente (NUNCA versionar)
+.env
+.env.local
+.env.production
+
+# vercel
+.vercel/
+
+# gerado pelo TanStack Router
+src/routeTree.gen.ts
+
+# logs e temporários
+*.log
+.DS_Store
