@@ -8,8 +8,7 @@ As agências da cidade vendem pacotes que não se cruzam — o turista precisa p
 
 ## Integrantes do grupo
 
-<!-- TODO: preencher com os nomes dos integrantes -->
-- (preencher)
+- Murillo Costa
 
 ## Tecnologias
 
@@ -80,9 +79,9 @@ npm run preview        # serve o build localmente
 
 ## Links
 
-- **Repositório backend:** <!-- TODO: URL do repo back -->
-- **Deploy frontend (Vercel):** <!-- TODO: URL pública -->
-- **Deploy backend (Vercel):** <!-- TODO: URL pública -->
+- **Repositório backend:** https://github.com/muricoxt4/roteiroJaBackEnd
+- **Deploy frontend (Vercel):** https://roteiroja-frontend.vercel.app
+- **Deploy backend (Vercel):** https://roteiroja-backend-umber.vercel.app
 
 ## Credenciais de teste
 
